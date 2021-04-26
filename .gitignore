@@ -3,6 +3,7 @@ test.py
 second_page.html
 leads_lead
 setup.txt
+leads/migrations/
 
 # Editors
 .vscode/
