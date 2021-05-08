@@ -10,6 +10,7 @@ distlib==0.3.0
 distro==1.4.0
 Django==3.1.4
 django-crispy-forms==1.11.2
+django-environ==0.4.5
 html5lib==1.0.1
 idna==2.8
 ipaddr==2.2.0
@@ -19,6 +20,7 @@ packaging==20.3
 pep517==0.8.2
 Pillow==8.2.0
 progress==1.5
+psycopg2-binary==2.8.6
 pyparsing==2.4.6
 pytoml==0.1.21
 pytz==2021.1
@@ -28,3 +30,4 @@ six==1.14.0
 sqlparse==0.4.1
 urllib3==1.25.8
 webencodings==0.5.1
+whitenoise==5.2.0
